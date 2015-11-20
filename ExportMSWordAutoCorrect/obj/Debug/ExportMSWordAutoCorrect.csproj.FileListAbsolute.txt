@@ -1,0 +1,13 @@
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\bin\Debug\ExportMSWordAutoCorrect.exe.config
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\bin\Debug\ExportMSWordAutoCorrect.exe
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\bin\Debug\ExportMSWordAutoCorrect.pdb
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.csprojResolveAssemblyReference.cache
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.csproj.ResolveComReference.cache
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.Form1.resources
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.Properties.Resources.resources
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.csproj.GenerateResource.Cache
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.exe
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\obj\Debug\ExportMSWordAutoCorrect.pdb
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\bin\Debug\CsvHelper.dll
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\bin\Debug\CsvHelper.pdb
+F:\Personal\DesktopApps\ExportMSWordAutoCorrect\ExportMSWordAutoCorrect\bin\Debug\CsvHelper.xml
